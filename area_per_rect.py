@@ -1,7 +1,7 @@
 # !/user/bin/env python3
 
 # Created by Kevin Csiffary
-# Date: Sep. 14, 2022
+# Date: Sep. 15, 2022
 # This program calculates the area and perimeter of a rectangle
 # With dimention 3cm * 7cm
 
